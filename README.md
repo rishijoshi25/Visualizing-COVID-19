@@ -20,3 +20,5 @@ Adding a logarithmic scale:-
 
 Plotting hardest hit countries as of Mid-March 2020:-
 ![image](https://user-images.githubusercontent.com/41236926/149262299-2501eb38-7a03-4d34-982f-322eeab1e80b.png)
+
+![image](https://user-images.githubusercontent.com/41236926/149262364-22c60e70-2ca1-4f63-8448-44355244a091.png)
